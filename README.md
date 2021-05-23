@@ -3,15 +3,15 @@
 
 # About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev, DSA, AI, BlockChain & I enjoy learning new things. </br> <img src="http://github.com/siddheshJungade/siddheshJungade/assets/devloper.gif">
+👨‍💻  I am passionate about Web Dev, DSA, AI, BlockChain & I enjoy learning new things. </br> <img src="./assets/devloper.gif">
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=siddheshJungade&show_icons=true&hide_border=true)
 <br />
 
 
-### Connect with me <ima src="https://github.com/siddheshJungade/siddheshJungade/Handshake.gif" width="28px">
+### Connect with me <ima src="./assets/Handshake.gif" width="28px">
 <a href="https://www.linkedin.com/in/siddhesh-jungade/">
-  <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
+  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/siddheshjungade">
   <img align="left" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />
@@ -22,5 +22,6 @@
 <a href="https://brothepro.hashnode.dev/">
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=siddheshJungade)
