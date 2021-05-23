@@ -1,7 +1,7 @@
 ### Hi there <img src="./assets/hi.gif" width="29px">, I'm [Siddhesh!](https://github.com/siddheshJungade) 
 
 
-<img align="right" alt="devloper" src="./assets/devloper.gif" width="300" > <br>
+<img align="right" alt="devloper" src="./assets/devloper.gif" width="400" > <br>
 
 
 # About Me 
@@ -12,15 +12,15 @@
 <br />
 
 
-### Connect with me <img src="./assets/handshake.gif" width="29px">
+### Connect with me <img src="./assets/handshake.gif" width="35px">
 <a href="https://www.linkedin.com/in/siddhesh-jungade/">
   <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/siddheshjungade">
-  <img align="left" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />
 </a>
 <a href="mailto:siddheshjungade007@gmail.com">
-  <img align="left" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />
+  <img align="left" width="26px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" />
 </a>
 <a href="https://brothepro.hashnode.dev/">
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
