@@ -12,7 +12,7 @@
 <br />
 
 
-### Connect with me <img src="./assets/handshake.gif" width="35px">
+### Connect with me <img src="./assets/handshake.gif" width="50px">
 <a href="https://www.linkedin.com/in/siddhesh-jungade/">
   <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a>
@@ -23,7 +23,7 @@
   <img align="left" width="26px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" />
 </a>
 <a href="https://brothepro.hashnode.dev/">
-  <img align="left" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
 <br />
 
