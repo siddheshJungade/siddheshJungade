@@ -23,8 +23,8 @@
   <img align="left" width="26px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" />
 </a>
 <a href="https://brothepro.hashnode.dev/">
-  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+  <img align="left" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
-</br>
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=siddheshJungade)
