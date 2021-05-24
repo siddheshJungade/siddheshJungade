@@ -1,7 +1,6 @@
 # Hi there <img src="./assets/hi.gif" width="29px">, I'm [Siddhesh](https://github.com/siddheshJungade) 
 
-<iframe src="https://lottiefiles.com/iframe/60674-developers-moods"></iframe>
-
+<img src="./assets/devloper.gif" width="400px" align="right"></img>
 ### About Me 
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Web Dev, DSA, AI, BlockChain & I enjoy learning new things. </br> 
