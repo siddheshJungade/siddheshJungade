@@ -1,9 +1,6 @@
 # Hi there <img src="./assets/hi.gif" width="29px">, I'm [Siddhesh](https://github.com/siddheshJungade) 
 
-
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets4.lottiefiles.com/private_files/lf30_4bkst7vs.json"  background="rgba(0, 0, 0, 0)"  speed="1"  style="width: 300px; height: 300px;" align="right"  loop controls autoplay></lottie-player>
-
+<iframe src="https://lottiefiles.com/iframe/60674-developers-moods"></iframe>
 
 ### About Me 
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
