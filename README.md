@@ -5,8 +5,9 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Web Dev, DSA, AI, BlockChain & I enjoy learning new things. </br> 
 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshJungade&layout=compact&hide" alt="Top language used in my repos" />
   <img src="https://github-readme-stats.vercel.app/api?username=siddheshJungade&show_icons=true" alt="Siddhesh Jungade Github Stats"></img>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshJungade&layout=compact&hide" alt="Top language used in my repos" />
+ 
 <br />
 
 
