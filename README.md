@@ -6,7 +6,7 @@
 👨‍💻  I am passionate about Web Dev, DSA, AI, BlockChain & I enjoy learning new things. </br> 
 
   <img src="https://github-readme-stats.vercel.app/api?username=siddheshJungade&show_icons=true" alt="Siddhesh Jungade Github Stats"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshJungade&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshJungade&layout=compact&hide" alt="Top language used in my repos" />
 <br />
 
 
