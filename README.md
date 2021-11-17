@@ -2,8 +2,8 @@
 
 <img src="./assets/devloper.gif" width="400px" align="right"></img>
 ### About Me 
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev, DSA, AI, BlockChain & I enjoy learning new things. </br> 
+🎓 I’m student pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am passionate about Softwer Development and Problem-solving. </br> 
 
 <a href="https://github.com/siddheshJungade">
   <img height="180em" width="425em" src="https://github-readme-stats.vercel.app/api?username=siddheshJungade&show_icons=true" />
