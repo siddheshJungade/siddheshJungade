@@ -6,7 +6,7 @@
 👨‍💻  I am passionate about Web Dev, DSA, AI, BlockChain & I enjoy learning new things. </br> 
 
 <a href="https://github.com/siddheshJungade">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=siddheshJungade&show_icons=true" />
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=siddheshJungade&show_icons=true" />
 </a>
  
 <br />
