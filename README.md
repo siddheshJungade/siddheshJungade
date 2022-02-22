@@ -1,4 +1,4 @@
-# Hi there <img src="./assets/hi.gif" width="29px">, I'm [Siddhesh](https://github.com/siddheshJungade) 
+# Hi there <img src="./assets/hi.gif" width="29px">, I'm [Siddhesh](https://siddheshjungade.netlify.app/) 
 
 <img src="./assets/devloper.gif" width="400px" align="right"></img>
 ### About Me 
