@@ -14,7 +14,7 @@
 
 ### Connect with me <img src="./assets/handshake.gif" width="50px">
 <a href="https://www.linkedin.com/in/siddhesh-jungade/" target="_blank">
-  <img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/siddheshjungade" target="_blank">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />
