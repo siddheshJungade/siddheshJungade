@@ -22,7 +22,7 @@
 <a href="mailto:siddheshjungade007@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" />
 </a>
-<a href="https://blog.siddheshjungade.md" target="_blank">
+<a href="https://blog.siddheshjungade.me" target="_blank">
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
 <br />
