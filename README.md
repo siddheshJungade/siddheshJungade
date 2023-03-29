@@ -1,6 +1,7 @@
 # Hi there <img src="./assets/hi.gif" width="29px">, I'm [Siddhesh](https://siddheshjungade.me/) 
-🎓 Student pursuing Bachelors in Computer Science & Engineering. </br>
+🎓 Student of Computer Science & Engineering. </br>
 👨‍💻 Passionate about Softwer Development and Problem-solving. </br> 
+∞ Finding Passion in DevOps & AI
 
 ---
 <p align="center">
