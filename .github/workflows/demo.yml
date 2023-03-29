@@ -9,9 +9,9 @@ jobs:
   demo-job:
     strategy:
       matrix:
-        or: [ubuntu-22.04,ubuntu-20.04]
+        os: [ubuntu-22.04,ubuntu-20.04]
         version: [10,12,14]
-    runs-on: ${{matrix.os}}
+    runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/setup-node@v3
         with:
