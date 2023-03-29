@@ -18,4 +18,4 @@ jobs:
         name: Node ${{matrix.version}}
         with:
           node-version: ${{ matrix.version }}   
-        run: npm ci 
+        runs: npm ci 
