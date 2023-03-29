@@ -10,7 +10,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-22.04,ubuntu-20.04]
-        version: [10,12,14]
+        version: [lts/-n]
     runs-on: ${{ matrix.os }}
     
     steps:
